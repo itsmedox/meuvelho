@@ -1,0 +1,72 @@
+{
+  "ADS": {
+
+ 
+    "networkAd": "0",
+   
+    "Banner_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "Interstitial_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "Native_facebook" : "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+
+    "inter_max": "37c0fd7e2939a3be",
+    "max_banner": "13482be8f771efc7",
+    "Native_max": "76d87171404718ed",
+
+    "startapp_id": "",
+
+    "show_cpa": false,
+    "cpa_image": "https://wordpresscdn.winzogames.com/prod/blog/wp-content/uploads/2022/01/31105343/Freefire-diamonds.jpg",
+    "cpa_url": "https://fr.uoldown.com/android/free-fire-hack-diamond-and-coins/download",
+    "cpa_button_text": "Get It Now!",
+  
+    
+
+    "Image_cpaLink" : "https://bucket.cpabuild.com/b/1.gif?fbclid=IwAR2LX-rRwi-cVzzxU5UgPaHeTlf_kFBSEWS7x3mOHSqNwOEAx9UMCm_yjSg",
+    "LinkCpa": "https://www.google.com/",
+
+    "ImageUrl_banner": "https://bucket.cpabuild.com/b/1.gif?fbclid=IwAR2LX-rRwi-cVzzxU5UgPaHeTlf_kFBSEWS7x3mOHSqNwOEAx9UMCm_yjSg",
+    "LinkCpa_banner": "https://www.google.com/",
+    "ImageUrl_banner1": "https://bucket.cpabuild.com/b/1.gif?fbclid=IwAR2LX-rRwi-cVzzxU5UgPaHeTlf_kFBSEWS7x3mOHSqNwOEAx9UMCm_yjSg",
+    "LinkCpa_banner1": "https://www.google.com/",
+    "ImageUrl_banner2": "https://bucket.cpabuild.com/b/1.gif?fbclid=IwAR2LX-rRwi-cVzzxU5UgPaHeTlf_kFBSEWS7x3mOHSqNwOEAx9UMCm_yjSg",
+    "LinkCpa_banner2": "https://www.google.com/",
+
+    "Image_exit": "https://i.ibb.co/xMSp8M1/INTRERTEST.jpg",
+    "link_exit": "https://www.google.com/",
+
+    "privacy" : "https://policies.google.com/privacy?hl=en-US",
+    "url_exit": "https://www.google.com/",
+    "url_bottom_coins": "https://www.google.com/",
+
+    "Text_tips1": "Welcome Test Badr",
+    "Text_tips2": "Welcome Test Badr2",
+    "Text_tips3": "Welcome Test Badr3",
+    "Text_tips4": "Welcome Test Badr4",
+    "Text_tips5": "Welcome Test Badr5",
+    "Text_tips6": "Welcome Test Badr6",
+    "Text_tips7": "Welcome Test Badr7",
+    "Text_tips8": "Welcome Test Badr8",
+
+
+    "Text_title1": "Test Badr",
+    "Text_title2": "Test Badr2",
+    "Text_title3": "Test Badr3",
+    "Text_title4": "Test Badr4",
+    "Text_title5": "Test Badr5",
+    "Text_title6": "Test Badr6",
+    "Text_title7": "Test Badr7",
+    "Text_title8": "Test Badr8",
+
+
+    "Text_buttonCoins" : "Male",
+    "Text_buttonTips" : "Women",
+    "Text_buttonmoins" : "- 18",
+    "Text_buttonplus" : "+ 18",
+
+
+    "CpaAds" : "false",
+
+    "Click_inter": "0"
+
+  }
+}
